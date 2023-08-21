@@ -1,0 +1,11 @@
+{
+  "name": "book_directory",
+  "version": "1.0.0",
+  "description": "It is a book directory which keeps the book records.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaminas P",
+  "license": "ISC"
+}
