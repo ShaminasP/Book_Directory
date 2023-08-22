@@ -1,4 +1,7 @@
 const Sequelize = require("sequelize");
+
+// Database Configuration
+
 const sequelize = new Sequelize(
   process.env.DB,
   process.env.DB_USER_NAME,
