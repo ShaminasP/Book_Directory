@@ -84,7 +84,7 @@ A simple Node.js Express API for managing a book directory using Sequelize and M
 ## Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/your-username/book-directory-api.git
+   https://github.com/ShaminasP/Book_Directory.git
    
 Install dependencies:
 cd book-directory-api
